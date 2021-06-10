@@ -1,5 +1,5 @@
 Brlapi==0.6.1
-Django==1.7.4
+Django==2.2.24
 Mako==0.9.1
 MarkupSafe==0.18
 apturl==0.5.2ubuntu4
